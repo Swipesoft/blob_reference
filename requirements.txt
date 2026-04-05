@@ -1,0 +1,5 @@
+pdfplumber
+treepoem
+Pillow
+argparse
+qrcode

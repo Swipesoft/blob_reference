@@ -1,0 +1,29 @@
+# -------------------------
+# Python virtual environment
+# -------------------------
+venv/
+
+# -------------------------
+# Python cache files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# PyCharm project settings
+# -------------------------
+.idea/
+
+# -------------------------
+# OS-specific files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Optional: logs, temp files
+# -------------------------
+*.log
+*.tmp
