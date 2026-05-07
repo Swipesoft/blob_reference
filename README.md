@@ -121,13 +121,3 @@ You are free to use, modify, and distribute this tool.
 
 ```
 
----
-
-If you want, I can also generate:
-
-- a **badge‑rich GitHub‑style README**  
-- a **demo GIF** section  
-- a **QR code preview** section  
-- or a **version that supports both URL and PDF input**  
-
-Just tell me how polished you want this to be.
